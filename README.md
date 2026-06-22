@@ -24,22 +24,22 @@ The backend integration is still pending. The frontend is complete and demonstra
 
 **Homepage**
 
-![Homepage hero with cyber visualization and APK scanner](../AINA/Screenshot%202026-06-22%20230339.png)
+![Homepage hero with cyber visualization and APK scanner](./AINA/Screenshot%202026-06-22%20230339.png)
 
 **Dashboard**
 
-![Dashboard showing threat score cards, weekly scan chart, and risk breakdown donut](../AINA/Screenshot%202026-06-22%20230356.png)
+![Dashboard showing threat score cards, weekly scan chart, and risk breakdown donut](./AINA/Screenshot%202026-06-22%20230356.png)
 
 **Upload & Analyse**
 
-![Upload page with drag-and-drop zone and recent uploads sidebar](../AINA/Screenshot%202026-06-22%20230419.png)
+![Upload page with drag-and-drop zone and recent uploads sidebar](./AINA/Screenshot%202026-06-22%20230419.png)
 
 ---
 
 ## Demo
 
-- [AINA-website.mp4](../AINA/AINA-website.mp4) — full site walkthrough
-- [AINA_Homepage_Figma Demo.mp4](../AINA/AINA_Homepage_Figma%20Demo.mp4) — early Figma prototype
+- [AINA-website.mp4](./AINA/AINA-website.mp4) — full site walkthrough
+- [AINA_Homepage_Figma Demo.mp4](./AINA/AINA_Homepage_Figma%20Demo.mp4) — early Figma prototype
 
 ---
 
